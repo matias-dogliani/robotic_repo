@@ -70,6 +70,6 @@ y se puede hacer solo cada vez que abramos una terminal y queramos los comando d
 
 `roslaunch turtlebot3_gazebo turtlebot3_empty_world.launch` 
 
-* Enviar comandos de velocidad: 
+* Enviar comandos de velocidad (desde una terminal nueva): 
 
 `rostopic pub -1 /cmd_vel geometry_msgs/Twist '[0.2,0,0]' '[0,0,0.2]'`
