@@ -35,7 +35,7 @@ y se puede hacer solo cada vez que abramos una terminal y queramos los comando d
 * Recargar el bashrc: 
 `source ~/.bashrc` 
 
-2- Instalar paquetes de TurtleBot3 para la simulación: 
+### Instalar paquetes de TurtleBot3 para la simulación: 
 
 * `mkdir -p ~/catkin_ws/src` 
 
