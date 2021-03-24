@@ -7,8 +7,8 @@
 
 ### Instructivo de instalación
 
-Se puede utilizar el entorno de [www.theconstructsim.com] desarrollo de ROS o 
-instalar ROS en la máquina con Ubuntu. 
+Se puede utilizar el [entorno de desarrollo de ROS]  o 
+(https://www.theconstructsim.com/) instalar ROS en la máquina con Ubuntu. 
 
 1- Instalar ROS  - [Tutorial](http://wiki.ros.org/noetic/Installation/Ubuntu) 
 
