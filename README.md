@@ -38,7 +38,7 @@ y se puede hacer solo cada vez que abramos una terminal y queramos los comando d
 ### Instalar paquetes de TurtleBot3 para la simulación: 
 
 * `mkdir -p ~/catkin_ws/src` 
-
+* `cd  ~/catkin_ws/scr`
 *  Descargar repositorios para ros-noetic (de su respectiva branch): 
 ~~~ 
     git clone -b noetic-devel https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git ` 
