@@ -2,3 +2,4 @@ informes/*
 *.pdf
 apuntes/* 
 clases/*
+.* 
