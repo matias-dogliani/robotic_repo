@@ -76,5 +76,4 @@ y se puede hacer solo cada vez que abramos una terminal y queramos los comando d
 
 O usando otro comando alternativa: 
 
-`rostopic pub -1 /cmd_vel geometry_msgs/Twist '{linear: {x: 0.2},
-angular: {z: 0.2}}' `
+`rostopic pub -1 /cmd_vel geometry_msgs/Twist '{linear: {x: 0.2},angular: {z: 0.2}}' `
