@@ -2,5 +2,4 @@ informes/*
 *.pdf
 apuntes/* 
 clases/*
-.ipynb* 
-*/.ipynb*
+
