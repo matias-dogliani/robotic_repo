@@ -1,6 +1,11 @@
 informes/* 
-*.pdf
+***.pdf
 apuntes/* 
 clases/*
 *.ipynb*
 */*.ipynb*
+bin/*
+lib/*
+include/* 
+share/*
+**.cfg
