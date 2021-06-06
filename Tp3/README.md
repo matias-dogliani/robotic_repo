@@ -9,3 +9,6 @@ Mediciones de barrido láser
 * Pistelli Franco 
 
  
+## Barrido láser 
+
+![](./imgs/laser.gif)
