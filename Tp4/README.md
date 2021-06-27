@@ -8,3 +8,5 @@ Sistemas en tiempo discreto
 * Nicolodi Juan 
 * Pistelli Franco 
 
+[Resolución](https://github.com/matias-dogliani/robotic_repo/blob/master/Tp4/Tp4.ipynb)
+[Scripts] (https://github.com/matias-dogliani/robotic_repo/tree/master/Tp4/script)  
