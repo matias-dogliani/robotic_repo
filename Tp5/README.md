@@ -7,6 +7,7 @@ Estimación de orientación con Filtro de Kalman
 * [NaveGo](https://github.com/rodralez/NaveGo)
 * [Ejercicio 4](https://github.com/matias-dogliani/robotic_repo/blob/master/Tp5/balancin_IMU.m) Simulación de balancín con medición ruidosa 
 * [Ejercicio 6](https://github.com/matias-dogliani/robotic_repo/blob/master/Tp5/balancin_discreto_kalman.m) Simulación de balancín con medición ruidosa y filtro Kalman 
+* [Informe](https://github.com/matias-dogliani/robotic_repo/blob/master/Tp5/tp5.pdf)
 
 ## Grupo 
 
